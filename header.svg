@@ -1,4 +1,4 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="100%" height="auto" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="100%" height="auto" fill="none">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b0f17"/>
@@ -42,14 +42,14 @@
 
     <!-- Tag 2 -->
     <g transform="translate(148, 0)">
-      <rect width="180" height="24" rx="5" fill="#111827" stroke="#1f2937" stroke-width="1"/>
-      <text x="10" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif" font-size="11" font-weight="500">🎓 FPT University Alumni/SE</text>
+      <rect width="135" height="24" rx="5" fill="#111827" stroke="#1f2937" stroke-width="1"/>
+      <text x="10" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif" font-size="11" font-weight="500">🎓 FPT University</text>
     </g>
 
     <!-- Tag 3 -->
-    <g transform="translate(338, 0)">
-      <rect width="250" height="24" rx="5" fill="#111827" stroke="#1f2937" stroke-width="1"/>
-      <text x="10" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif" font-size="11" font-weight="500">⚡ Next.js · React Native · NestJS · .NET</text>
+    <g transform="translate(293, 0)">
+      <rect width="270" height="24" rx="5" fill="#111827" stroke="#1f2937" stroke-width="1"/>
+      <text x="10" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif" font-size="11" font-weight="500">⚡ TypeScript · Next.js · React Native · Express</text>
     </g>
   </g>
 </svg>
