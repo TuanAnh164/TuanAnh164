@@ -1,4 +1,4 @@
-﻿# Hi there, I'm Tran Tuan Anh 👋
+# Hi there, I'm Tran Tuan Anh 👋
 
 ### 👨‍💻 About Me
 - 🎓 Software Engineering student at **FPT University Da Nang**
