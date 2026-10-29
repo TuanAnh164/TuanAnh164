@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TuanAnh164/TuanAnh164/main/header.svg" alt="Tran Tuan Anh - Software Engineer" width="100%" />
 </p>
-
 <p align="center">
   <a href="https://trantuananhdev.vercel.app"><b>Portfolio Website ↗</b></a> &nbsp;&bull;&nbsp;
   <a href="https://www.facebook.com/tran.tuananh.615673"><b>Facebook ↗</b></a> &nbsp;&bull;&nbsp;
