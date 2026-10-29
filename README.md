@@ -26,7 +26,7 @@ Software Engineer based in Da Nang, Vietnam. Focused on **Web & Mobile Applicati
 | **Frontend & UI** | `Next.js` · `React` · `Tailwind CSS` · `Redux Toolkit` · `Vite` |
 | **Mobile** | `React Native` · `Expo Router` |
 | **Backend & APIs** | `Node.js` · `Express.js` · `RESTful APIs` · `Socket.io` |
-| **Databases** | `MongoDB (Mongoose)` · `SQL` |
+| **Databases** | `MongoDB ` · `SQL` |
 | **Testing & CI/CD** | `Vitest` · `Playwright E2E` · `GitHub Actions` |
 | **Engineering Tools** | `Git` · `Postman` · `Jira` · `Figma` · `Visual Paradigm` |
 
