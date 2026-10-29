@@ -18,22 +18,6 @@ Software Engineer based in Da Nang, Vietnam. Focused on **Web & Mobile Applicati
 
 ---
 
-### Featured Works
-
-- **[FlintFlow](https://github.com/TuanAnh164)** — Software requirements clarification and IEEE 830 SRS documentation platform.  
-  `TypeScript` · `Next.js 15` · `Node.js` · `Express` · `MongoDB` · `Vitest` · `Playwright`
-
-- **[MergeTrack](https://github.com/TuanAnh164)** — Automated Pull Request static code quality and code smell analyzer.  
-  `TypeScript Monorepo` · `Next.js` · `AST Engine` · `GitHub Actions` · `Tailwind CSS`
-
-- **[HabitFlow](https://github.com/TuanAnh164)** — Cross-platform mobile application for routine scheduling and streak habit tracking.  
-  `React Native` · `Expo Router` · `MongoDB` · `TanStack Query`
-
-- **[HistoryEdu](https://github.com/TuanAnh164)** — Interactive history learning web platform featuring real-time quiz rooms.  
-  `React` · `TypeScript` · `Express.js` · `Socket.io` · `MongoDB`
-
----
-
 ### Technical Capabilities
 
 | Layer | Technologies & Tools |
