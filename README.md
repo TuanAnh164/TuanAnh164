@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://trantuananhdev.vercel.app"><b>Portfolio Website â†—</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://www.facebook.com/tran.tuananh.615673"><b>Facebook â†—</b></a> &nbsp;&bull;&nbsp;
-  <a href="mailto:xmy283480@gmail.com"><b>xmy283480@gmail.com â†—</b></a>
+  <a href="https://trantuananhdev.vercel.app"><b>Portfolio Website ↗</b></a> &nbsp;&bull;&nbsp;
+  <a href="https://www.facebook.com/tran.tuananh.615673"><b>Facebook ↗</b></a> &nbsp;&bull;&nbsp;
+  <a href="mailto:xmy283480@gmail.com"><b>xmy283480@gmail.com ↗</b></a>
 </p>
 
 ---
@@ -20,17 +20,17 @@ Software Engineer based in Da Nang, Vietnam. Focused on **Web & Mobile Applicati
 
 ### Featured Works
 
-- **[FlintFlow](https://github.com/TuanAnh164)** â€” Software requirements clarification and IEEE 830 SRS documentation platform.  
-  `TypeScript` Â· `Next.js 15` Â· `Node.js` Â· `Express` Â· `MongoDB` Â· `Vitest` Â· `Playwright`
+- **[FlintFlow](https://github.com/TuanAnh164)** — Software requirements clarification and IEEE 830 SRS documentation platform.  
+  `TypeScript` · `Next.js 15` · `Node.js` · `Express` · `MongoDB` · `Vitest` · `Playwright`
 
-- **[MergeTrack](https://github.com/TuanAnh164)** â€” Automated Pull Request static code quality and code smell analyzer.  
-  `TypeScript Monorepo` Â· `Next.js` Â· `AST Engine` Â· `GitHub Actions` Â· `Tailwind CSS`
+- **[MergeTrack](https://github.com/TuanAnh164)** — Automated Pull Request static code quality and code smell analyzer.  
+  `TypeScript Monorepo` · `Next.js` · `AST Engine` · `GitHub Actions` · `Tailwind CSS`
 
-- **[HabitFlow](https://github.com/TuanAnh164)** â€” Cross-platform mobile application for routine scheduling and streak habit tracking.  
-  `React Native` Â· `Expo Router` Â· `MongoDB` Â· `TanStack Query`
+- **[HabitFlow](https://github.com/TuanAnh164)** — Cross-platform mobile application for routine scheduling and streak habit tracking.  
+  `React Native` · `Expo Router` · `MongoDB` · `TanStack Query`
 
-- **[HistoryEdu](https://github.com/TuanAnh164)** â€” Interactive history learning web platform featuring real-time quiz rooms.  
-  `React` Â· `TypeScript` Â· `Express.js` Â· `Socket.io` Â· `MongoDB`
+- **[HistoryEdu](https://github.com/TuanAnh164)** — Interactive history learning web platform featuring real-time quiz rooms.  
+  `React` · `TypeScript` · `Express.js` · `Socket.io` · `MongoDB`
 
 ---
 
@@ -38,13 +38,13 @@ Software Engineer based in Da Nang, Vietnam. Focused on **Web & Mobile Applicati
 
 | Layer | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | `TypeScript` Â· `JavaScript` Â· `Java` Â· `HTML5` Â· `CSS3` |
-| **Frontend & UI** | `Next.js` Â· `React` Â· `Tailwind CSS` Â· `Redux Toolkit` Â· `Vite` |
-| **Mobile** | `React Native` Â· `Expo Router` |
-| **Backend & APIs** | `Node.js` Â· `Express.js` Â· `RESTful APIs` Â· `Socket.io` |
-| **Databases** | `MongoDB (Mongoose)` Â· `SQL` |
-| **Testing & CI/CD** | `Vitest` Â· `Playwright E2E` Â· `GitHub Actions` |
-| **Engineering Tools** | `Git` Â· `Postman` Â· `Jira` Â· `Figma` Â· `Visual Paradigm` |
+| **Languages** | `TypeScript` · `JavaScript` · `Java` · `HTML5` · `CSS3` |
+| **Frontend & UI** | `Next.js` · `React` · `Tailwind CSS` · `Redux Toolkit` · `Vite` |
+| **Mobile** | `React Native` · `Expo Router` |
+| **Backend & APIs** | `Node.js` · `Express.js` · `RESTful APIs` · `Socket.io` |
+| **Databases** | `MongoDB (Mongoose)` · `SQL` |
+| **Testing & CI/CD** | `Vitest` · `Playwright E2E` · `GitHub Actions` |
+| **Engineering Tools** | `Git` · `Postman` · `Jira` · `Figma` · `Visual Paradigm` |
 
 ---
 
