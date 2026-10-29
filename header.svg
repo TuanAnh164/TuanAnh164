@@ -1,0 +1,55 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="100%" height="auto" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f17"/>
+      <stop offset="100%" stop-color="#070a0f"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e293b" stroke-width="0.7" stroke-opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <!-- Container Box -->
+  <rect width="850" height="170" rx="12" fill="url(#bgGrad)"/>
+  <rect width="850" height="170" rx="12" fill="url(#grid)"/>
+  <rect width="848" height="168" x="1" y="1" rx="11" fill="none" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Top Accent Line -->
+  <rect x="24" y="1" width="320" height="2" fill="url(#accentLine)"/>
+
+  <!-- Status Pill -->
+  <g transform="translate(620, 26)">
+    <rect width="195" height="26" rx="13" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="16" cy="13" r="4" fill="#10b981"/>
+    <circle cx="16" cy="13" r="7" fill="#10b981" fill-opacity="0.25"/>
+    <text x="29" y="17" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif" font-size="11" font-weight="500">AVAILABLE FOR WORK</text>
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="36" y="62" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.02em">Tran Tuan Anh</text>
+  <text x="36" y="92" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif" font-size="14" font-weight="400">Software Engineer &amp; Builder · Web &amp; Mobile Architectures</text>
+
+  <!-- Bottom Details / Tags -->
+  <g transform="translate(36, 126)">
+    <!-- Tag 1 -->
+    <rect width="138" height="24" rx="5" fill="#111827" stroke="#1f2937" stroke-width="1"/>
+    <text x="10" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif" font-size="11" font-weight="500">📍 Da Nang, Vietnam</text>
+
+    <!-- Tag 2 -->
+    <g transform="translate(148, 0)">
+      <rect width="180" height="24" rx="5" fill="#111827" stroke="#1f2937" stroke-width="1"/>
+      <text x="10" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif" font-size="11" font-weight="500">🎓 FPT University Alumni/SE</text>
+    </g>
+
+    <!-- Tag 3 -->
+    <g transform="translate(338, 0)">
+      <rect width="250" height="24" rx="5" fill="#111827" stroke="#1f2937" stroke-width="1"/>
+      <text x="10" y="16" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, sans-serif" font-size="11" font-weight="500">⚡ Next.js · React Native · NestJS · .NET</text>
+    </g>
+  </g>
+</svg>
